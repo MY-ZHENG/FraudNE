@@ -2,7 +2,6 @@ import numpy as np
 import tensorflow as tf
 import time
 import copy
-from model.rbm import *
 
 class ADNE:
 	def __init__(self,config):
