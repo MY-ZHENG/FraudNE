@@ -6,6 +6,14 @@ This repository provides an implementation of the method proposed in "FraudNE: a
 -   `output/`  is the directory to store the learned node embeddings;
 -  `src/` contains the implementation of the proposed FraudNE method.
 
+### Requirement
+
+The implementation is tested under Pyrhon 2.7, with the folowing packages installed:
+ - `networkx==1.11`
+ - `numpy==1.11.2`
+ - `tensorflow==1.5`
+
+
 ### Input
 The code takes a bipartite input graph composed users and items. Every row indicates an edge between two nodes, such like:
 
