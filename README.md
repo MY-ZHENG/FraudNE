@@ -1,5 +1,5 @@
 # FraudNE
-This repository provides an implementation of the method proposed in "FraudNE: a Joint Embedding Approach for Fraud Detection", Mengyu Zheng, Chuan Zhou, Jia Wu, Shirui Pan, Jinqiao Shi and Li Guo, IJCNN 2018
+This repository provides an implementation of the method proposed in "[FraudNE: a Joint Embedding Approach for Fraud Detection](https://www.researchgate.net/profile/Chuan_Zhou5/publication/327164545_FraudNE_a_Joint_Embedding_Approach_for_Fraud_Detection/links/5b7df361299bf1d5a71e43dd/FraudNE-a-Joint-Embedding-Approach-for-Fraud-Detection.pdf)", Mengyu Zheng, Chuan Zhou, Jia Wu, Shirui Pan, Jinqiao Shi and Li Guo, IJCNN 2018
 
 ### Overview
 -   `input/`    contains an example graphs 'zomato.edgelist.400';
