@@ -2,6 +2,9 @@
 This repository provides an implementation of the method proposed in "FraudNE: a Joint Embedding Approach for Fraud Detection", Mengyu Zheng, Chuan Zhou, Jia Wu, Shirui Pan, Jinqiao Shi and Li Guo, IJCNN 2018
 
 ### Overview
+-   `input/`    contains an example graphs 'zomato.edgelist.400';
+-   `output/`  is the directory to store the learned node embeddings;
+-  `src/` contains the implementation of the proposed FraudNE method.
 
 ### Input
 The code takes a bipartite input graph composed users and items. Every row indicates an edge between two nodes, such like:
